@@ -1,3 +1,8 @@
-# How to use this directory
+<div>
+  <img src="./images/safari.png" height="32px" width="32px" align="left">
+  <h2>Safari</h2>
+</div>
 
-Grab script files you want to use from the repository and paste it here (rather than pointing directly to other repo folders). By doing this, you will avoid new unexpected scripts creeping in Raycast as community adds more. You also protect yourself from any potential folder renamings. All content in this directory will be ignored by git.
+Add a few missing actions to make tab management easier in Safari. 
+
+![Screenshot of Things](images/screenshot.png)
